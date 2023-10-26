@@ -10,3 +10,7 @@
 ### Multithreading: RxJava
 ### Testing : Unit testing: JUnit 4, Mockito | UI testing: Espresso
 ### viewBinding
+
+#
+<image src ="https://github.com/25THELL52/RanDogPic/assets/79938851/8e26a740-3c89-4eab-884c-fece42c5a5cd" width="30%" height="30%">
+
